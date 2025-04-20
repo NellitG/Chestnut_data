@@ -3,3 +3,6 @@
        **Total Population**
 
 Number of Girls and Boys in the school
+
+
+Show the trends of school fees balances 
