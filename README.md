@@ -5,4 +5,4 @@
 Number of Girls and Boys in the school
 
 
-Show the trends of school fees balances 
+Show the trends of school fees balances using graphs
