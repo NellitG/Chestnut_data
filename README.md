@@ -10,3 +10,8 @@ Show the trends of school fees balances using graphs
 Students with Names more than two
 
 Students with balances more thatn 10000 
+
+
+Students with balances more than 5000 
+
+
