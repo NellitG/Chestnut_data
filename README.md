@@ -20,3 +20,9 @@ Students with balances more than 5000
 ![Capture](https://github.com/user-attachments/assets/83342e39-ba83-4260-aff0-e94af05457a9)
 
 
+**Number of Boys and Girls in the School**
+
+
+![Capture](https://github.com/user-attachments/assets/7a10287f-6a57-45f7-8a80-ab976c79ffdb)
+
+
