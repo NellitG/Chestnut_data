@@ -15,7 +15,7 @@ Students with balances more than 10000
 Students with balances more than 5000 
 
 
-**Lower Classes From Grade 1 to 3**
+**Lower Classes From Grade 1 to 3 With Trends of Fee Balances**
 
 ![Capture](https://github.com/user-attachments/assets/83342e39-ba83-4260-aff0-e94af05457a9)
 
