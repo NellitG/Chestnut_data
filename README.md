@@ -30,3 +30,6 @@ Students with balances more than 5000
 
 
 ![Capture](https://github.com/user-attachments/assets/560f410d-c587-4454-84bd-1bc277614480)
+
+
+**Trends of Upper Classes Balances**
