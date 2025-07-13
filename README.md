@@ -1,6 +1,6 @@
 **Cape Chestnut School Data**
 
-       **Total Population**
+Total Population
 
 Number of Girls and Boys in the school
 
