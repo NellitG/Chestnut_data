@@ -23,7 +23,9 @@ Students with balances more than 5000
 **Number of Boys and Girls in the School**
 
 
-![Capture](https://github.com/user-attachments/assets/7a10287f-6a57-45f7-8a80-ab976c79ffdb)
+![Capture](https://github.com/user-
+
+attachments/assets/7a10287f-6a57-45f7-8a80-ab976c79ffdb)
 
 
 **Trends of Term 1 Balances**
@@ -33,3 +35,7 @@ Students with balances more than 5000
 
 
 **Trends of Upper Classes Balances**
+
+
+
+**Term 2 balances**
